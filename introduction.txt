@@ -1,2 +1,2 @@
 Version control system help manage changes in software development
-mistake content added here.
+mistake content added here
